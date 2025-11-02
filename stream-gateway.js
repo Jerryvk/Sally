@@ -1,9 +1,15 @@
 import express from "express";
 import expressWs from "express-ws";
 import dotenv from "dotenv";
+import { connectRealtime } from "./modules/openai-realtime.js";
 
 // Load environment variables from the project's environments directory
 dotenv.config({ path: "/var/www/chatystream/environments/.env" });
+
+// Start OpenAI Realtime connection (non-blocking)
+connectRealtime().catch((err) => {
+  console.error('Realtime connect error', err && err.message ? err.message : err);
+});
 
 const app = express();
 const { app: wsApp } = expressWs(app);
