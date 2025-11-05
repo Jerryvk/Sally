@@ -4,3 +4,5 @@ stream-gateway.log
 .env
 node_modules
 stream-gateway.log
+!logs/
+!logs/**/*
