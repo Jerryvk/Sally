@@ -1,0 +1,2 @@
+[2025-11-05T03:58:05.364345Z] Hello there! I am an AI voice assistant powered by Twilio and the OpenAI Realtime API. You can ask me for facts, jokes, or anything you can imagine. How can I help you?
+[2025-11-05T03:58:05.364973Z] Hello there! I am an AI voice assistant powered by Twilio and the OpenAI Realtime API. You can ask me for facts, jokes, or anything you can imagine. How can I help you?

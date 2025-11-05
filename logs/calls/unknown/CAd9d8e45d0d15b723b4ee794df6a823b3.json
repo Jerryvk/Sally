@@ -1,0 +1,23 @@
+{
+  "caller": "unknown",
+  "call_sid": "CAd9d8e45d0d15b723b4ee794df6a823b3",
+  "start": "2025-11-05T15:04:22.777806Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-05T15:04:22.778321Z",
+      "role": "system",
+      "text": "Stream connected."
+    },
+    {
+      "ts": "2025-11-05T15:04:27.282330Z",
+      "role": "assistant",
+      "text": "Dat kan ik nu niet beantwoorden, maar ik kan wel een belafspraak inplannen zodat een van onze medewerkers u terugbelt. Waarmee kan ik u helpen met betrekking tot een afspraak of praktische informatie van Kapsalon Soleil?"
+    },
+    {
+      "ts": "2025-11-05T15:04:27.283119Z",
+      "role": "assistant",
+      "text": "Dat kan ik nu niet beantwoorden, maar ik kan wel een belafspraak inplannen zodat een van onze medewerkers u terugbelt. Waarmee kan ik u helpen met betrekking tot een afspraak of praktische informatie van Kapsalon Soleil?"
+    }
+  ]
+}

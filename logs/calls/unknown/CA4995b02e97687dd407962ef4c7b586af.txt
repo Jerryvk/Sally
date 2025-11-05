@@ -1,0 +1,4 @@
+[2025-11-05T15:36:45.236416Z] Hallo, goedend
+[2025-11-05T15:36:45.237836Z] Hallo, goedend
+[2025-11-05T15:36:47.664364Z] Hallo, welkom bij Kapsalon Soleil. Waar kan ik u vandaag mee helpen?
+[2025-11-05T15:36:47.665008Z] Hallo, welkom bij Kapsalon Soleil. Waar kan ik u vandaag mee helpen?

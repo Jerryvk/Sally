@@ -1,0 +1,23 @@
+{
+  "caller": "unknown",
+  "call_sid": "CA7f7b177039727e021237c3fcae9bded7",
+  "start": "2025-11-05T15:36:52.703122Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-05T15:36:52.704675Z",
+      "role": "system",
+      "text": "Stream connected."
+    },
+    {
+      "ts": "2025-11-05T15:36:56.585729Z",
+      "role": "assistant",
+      "text": "Hallo, goedendag! Waar kan ik u mee helpen?"
+    },
+    {
+      "ts": "2025-11-05T15:36:56.588290Z",
+      "role": "assistant",
+      "text": "Hallo, goedendag! Waar kan ik u mee helpen?"
+    }
+  ]
+}

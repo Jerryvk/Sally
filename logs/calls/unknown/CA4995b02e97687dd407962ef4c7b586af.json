@@ -1,0 +1,33 @@
+{
+  "caller": "unknown",
+  "call_sid": "CA4995b02e97687dd407962ef4c7b586af",
+  "start": "2025-11-05T15:36:39.712613Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-05T15:36:39.713235Z",
+      "role": "system",
+      "text": "Stream connected."
+    },
+    {
+      "ts": "2025-11-05T15:36:45.235840Z",
+      "role": "assistant",
+      "text": "Hallo, goedend"
+    },
+    {
+      "ts": "2025-11-05T15:36:45.236856Z",
+      "role": "assistant",
+      "text": "Hallo, goedend"
+    },
+    {
+      "ts": "2025-11-05T15:36:47.663452Z",
+      "role": "assistant",
+      "text": "Hallo, welkom bij Kapsalon Soleil. Waar kan ik u vandaag mee helpen?"
+    },
+    {
+      "ts": "2025-11-05T15:36:47.664642Z",
+      "role": "assistant",
+      "text": "Hallo, welkom bij Kapsalon Soleil. Waar kan ik u vandaag mee helpen?"
+    }
+  ]
+}

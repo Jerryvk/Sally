@@ -1,0 +1,23 @@
+{
+  "caller": "unknown",
+  "call_sid": "CA6176a99a56fb4751f2cd594211cad5e0",
+  "start": "2025-11-05T03:59:33.734733Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-05T03:59:33.735232Z",
+      "role": "system",
+      "text": "Stream connected."
+    },
+    {
+      "ts": "2025-11-05T03:59:36.673324Z",
+      "role": "assistant",
+      "text": "Hello there! I am an AI voice assistant powered by Twilio and the OpenAI Realtime API. You can ask me for facts, jokes, or anything you can imagine. How can I help you?"
+    },
+    {
+      "ts": "2025-11-05T03:59:36.674657Z",
+      "role": "assistant",
+      "text": "Hello there! I am an AI voice assistant powered by Twilio and the OpenAI Realtime API. You can ask me for facts, jokes, or anything you can imagine. How can I help you?"
+    }
+  ]
+}

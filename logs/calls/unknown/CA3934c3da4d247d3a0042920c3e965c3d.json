@@ -1,0 +1,13 @@
+{
+  "caller": "unknown",
+  "call_sid": "CA3934c3da4d247d3a0042920c3e965c3d",
+  "start": "2025-11-05T15:32:39.229671Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-05T15:32:39.230695Z",
+      "role": "system",
+      "text": "Stream connected."
+    }
+  ]
+}
