@@ -1,0 +1,23 @@
+{
+  "caller": "unknown",
+  "call_sid": "CAdf7b53e0b89e4d279a83ea4e8fe34c65",
+  "start": "2025-11-05T00:08:14.150850Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-05T00:08:14.151096Z",
+      "role": "system",
+      "text": "Stream connected."
+    },
+    {
+      "ts": "2025-11-05T00:08:17.932166Z",
+      "role": "assistant",
+      "text": "Sorry, dat kan ik niet beantwoorden. Maar ik help u graag met het maken, verzetten of annuleren van een afspraak, of met informatie over onze openingstijden, locatie of parkeren. Waarmee kan ik u helpen?"
+    },
+    {
+      "ts": "2025-11-05T00:08:17.932976Z",
+      "role": "assistant",
+      "text": "Sorry, dat kan ik niet beantwoorden. Maar ik help u graag met het maken, verzetten of annuleren van een afspraak, of met informatie over onze openingstijden, locatie of parkeren. Waarmee kan ik u helpen?"
+    }
+  ]
+}
