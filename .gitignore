@@ -1,8 +1,5 @@
-.env
-node_modules
-stream-gateway.log
-.env
-node_modules
-stream-gateway.log
-!logs/
-!logs/**/*
+logs/
+*.log
+*.json
+__pycache__/
+*.pyc
