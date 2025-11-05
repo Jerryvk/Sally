@@ -1,0 +1,18 @@
+{
+  "caller": "unknown",
+  "call_sid": "CA2aeb68431d7ed544ff0175a2e8496b5a",
+  "start": "2025-11-04T23:47:13.333963Z",
+  "name": null,
+  "transcript": [
+    {
+      "ts": "2025-11-04T23:47:13.333963Z",
+      "role": "assistant",
+      "text": "Sorry, dat kan ik niet beantwoorden. Maar ik kan je wel helpen met het maken, verzetten of annuleren van een afspraak, of met praktische informatie over onze kapsalon. Wat kan ik voor u doen?"
+    },
+    {
+      "ts": "2025-11-04T23:47:13.334385Z",
+      "role": "assistant",
+      "text": "Sorry, dat kan ik niet beantwoorden. Maar ik kan je wel helpen met het maken, verzetten of annuleren van een afspraak, of met praktische informatie over onze kapsalon. Wat kan ik voor u doen?"
+    }
+  ]
+}
